@@ -1,0 +1,18 @@
+Package: BSgenome.Pfalciparum.PlasmoDB.v24
+Title: Full genome sequences for P. falciparum 3D7
+Description: Full genome sequence for P. falciparum 3D7 reference strain as provided by PlasmoDB in version 24
+Version: 1.0
+Author: Philipp Ross
+Maintainer: Philipp Ross <philippross369@gmail.com>
+Depends: BSgenome (>= 1.36.0)
+Imports: BSgenome
+Suggests: 
+License: GPL (>= 2)
+organism: Plasmodium falciparum
+common_name: 3D7
+provider: PlasmoDB
+provider_version: 24
+release_date: 5/01/2015
+release_name: Version 24
+source_url: http://plasmodb.org/common/downloads/release-24/Pfalciparum3D7/fasta/data/PlasmoDB-24_Pfalciparum3D7_Genome.fasta
+biocViews: AnnotationData, Genetics, BSgenome, plasmodium_falciparum
